@@ -1,0 +1,14 @@
+[display]
+columns       = 3
+window_width  = 600
+window_height = 400
+card_ratio    = 1.45
+spacing       = 10
+padding       = 12
+font_size     = 13
+# font = "JetBrains Mono 12"   # default: the font from ~/.config/rofi/config.rasi
+# window_x / window_y pin the window; leave them out to center it like rofi
+
+[ani_cli]
+# extra flags for every ani-cli run, e.g. ["--dub"], ["--skip"], ["-q", "1080p"]
+args = []
